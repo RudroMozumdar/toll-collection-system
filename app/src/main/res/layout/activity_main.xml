@@ -112,11 +112,22 @@
         android:layout_height="50dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="590dp"
-        android:text="Sign up"
         android:backgroundTint="#52AFB3"
-        >
+        android:text="Sign up">
 
     </Button>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="650dp"
+        android:text="Forget password?"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        >
+
+    </TextView>
 
 
 
